@@ -1,0 +1,21 @@
+\documentclass[11pt]{book}
+
+\usepackage{docmute}
+\title{The Big Book of Kedgeree}
+\author{}
+\begin{document}
+\maketitle
+\def\title#1{\chapter{#1}}
+\tableofcontents
+
+\part{Front Matter}
+        \input{chapter-1}
+        
+\part{Text}
+        \input{chapter-2}
+        
+\part{Back Matter}
+        \input{chapter-3}
+        
+
+\end{document}

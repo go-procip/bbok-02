@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
+  <head>
+    <meta name="dtb:fidus" content="107" />
+  </head>
+  <docTitle>
+    <text>The Big Book of Kedgeree</text>
+  </docTitle>
+  <navMap>
+
+    <!-- 2.01 NCX: playOrder is optional -->
+    <navPoint id="t1">
+      <navLabel><text>Title page</text></navLabel>
+      <content src="titlepage.xhtml#title" />
+    </navPoint>
+    <navPoint id="t0-1">
+      <navLabel><text>Front Matter</text></navLabel>
+      <content src="document-1.xhtml" />
+      <navPoint id="t_1_0-1">
+        <navLabel><text>Demo</text></navLabel>
+        <content src="document-1.xhtml#_1_0" />
+        <navPoint id="tH8043058-1">
+          <navLabel><text>Login</text></navLabel>
+          <content src="document-1.xhtml#H8043058" />
+        </navPoint>
+        <navPoint id="tH2520848-1">
+          <navLabel><text>Create documents</text></navLabel>
+          <content src="document-1.xhtml#H2520848" />
+        </navPoint>
+        <navPoint id="tH6854650-1">
+          <navLabel><text>Share documents and invite participants</text></navLabel>
+          <content src="document-1.xhtml#H6854650" />
+        </navPoint>
+        <navPoint id="tH8600370-1">
+          <navLabel><text>Create book</text></navLabel>
+          <content src="document-1.xhtml#H8600370" />
+        </navPoint>
+        <navPoint id="tH8429539-1">
+          <navLabel><text>Create GitHub repo</text></navLabel>
+          <content src="document-1.xhtml#H8429539" />
+        </navPoint>
+        <navPoint id="tH3310274-1">
+          <navLabel><text>Output book</text></navLabel>
+          <content src="document-1.xhtml#H3310274" />
+        </navPoint>
+        <navPoint id="tH7280177-1">
+          <navLabel><text>Collaborative editing</text></navLabel>
+          <content src="document-1.xhtml#H7280177" />
+          <navPoint id="tH5057475-1">
+            <navLabel><text>Document markup features</text></navLabel>
+            <content src="document-1.xhtml#H5057475" />
+          </navPoint>
+          <navPoint id="tH3272242-1">
+            <navLabel><text>Document settings</text></navLabel>
+            <content src="document-1.xhtml#H3272242" />
+          </navPoint>
+          <navPoint id="tH9963771-1">
+            <navLabel><text>Comments and track changes</text></navLabel>
+            <content src="document-1.xhtml#H9963771" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t0-2">
+      <navLabel><text>Text</text></navLabel>
+      <content src="document-2.xhtml" />
+      <navPoint id="t_2_0-2">
+        <navLabel><text>Notes</text></navLabel>
+        <content src="document-2.xhtml#_2_0" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t0-3">
+      <navLabel><text>Back Matter</text></navLabel>
+      <content src="document-3.xhtml" />
+      <navPoint id="t_3_0-3">
+        <navLabel><text>Recipes</text></navLabel>
+        <content src="document-3.xhtml#_3_0" />
+      </navPoint>
+      <navPoint id="t2">
+        <navLabel><text>Copyright</text></navLabel>
+        <content src="copyright.xhtml#copyright" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
