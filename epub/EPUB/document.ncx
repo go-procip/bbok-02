@@ -75,6 +75,10 @@
       <navPoint id="t_3_0-3">
         <navLabel><text>Recipes</text></navLabel>
         <content src="document-3.xhtml#_3_0" />
+        <navPoint id="tH7810746-3">
+          <navLabel><text>Rank the recipes</text></navLabel>
+          <content src="document-3.xhtml#H7810746" />
+        </navPoint>
       </navPoint>
       <navPoint id="t2">
         <navLabel><text>Copyright</text></navLabel>
